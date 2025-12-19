@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Samreen Khan.
+
+🌱 I’m currently learning Data analytics.
+
 <!--
 **Samreen50/samreen50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
