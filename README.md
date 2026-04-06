@@ -90,6 +90,11 @@
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/samreen-analyst
 
+## 🏅 Certifications:
+🏆[Microsoft TechMaster Certificate in Data Analystics]([url](https://courses-in.skillup.online/programcertificates/64963544bb334c4ba3e7709ea8f77363))
+
+
+
 ---
 
 ⭐️ *"Learning, growing, and building with data every day"*
