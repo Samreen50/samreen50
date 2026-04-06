@@ -82,7 +82,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen50&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samreen50&show_icons=true&theme=tokyonight)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samreen50&theme=default)
