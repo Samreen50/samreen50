@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/Samreen50/samreen50/main/Aspiring%20data%20analyst%20in%20action.png)
-
 **Samreen Khan | Aspiring Data Analyst**
 
 <!-- Typing Intro -->
