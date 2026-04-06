@@ -81,12 +81,9 @@
 * Worked with date-based filtering in Pandas
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samreen50&theme=default)
 
 ## 🔥 Streak Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samreen50&theme=default)
 
 
